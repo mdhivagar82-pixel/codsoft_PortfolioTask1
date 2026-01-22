@@ -8,18 +8,18 @@ This project presents personal information, technical skills, resume, and contac
  **https://mdhivagar82-pixel.github.io/codsoft_PortfolioTask1/**
 
 ## Features
- Responsive navigation bar
- Hero section with introduction and profile image
- About section with short bio
- Skills section displayed in grid format
- Resume section with downloadable PDF
- Contact section with email and phone details
- Footer with copyright information
+- Responsive navigation bar
+- Hero section with introduction and profile image
+- About section with short bio
+- Skills section displayed in grid format
+- Resume section with downloadable PDF
+- Contact section with email and phone details
+- Footer with copyright information
 
 ## Technologies Used
- HTML
- CSS
+- HTML
+- CSS
 
 ## Developed By
- Dhivagar M
+ **Dhivagar M**
  Web Development Intern – CodSoft
