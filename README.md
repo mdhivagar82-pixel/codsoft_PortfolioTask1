@@ -22,4 +22,5 @@ This project presents personal information, technical skills, resume, and contac
 
 ## Developed By
  **Dhivagar M**
+ 
  Web Development Intern – CodSoft
